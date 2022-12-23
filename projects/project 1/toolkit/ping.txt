@@ -1,0 +1,12 @@
+>> python ping.py 82.115.20.167
+
+Pinging 82.115.20.167 with 32 bytes of data:
+Reply from 82.115.20.167: bytes=32 time=101ms TTL=45
+Reply from 82.115.20.167: bytes=32 time=104ms TTL=45
+Reply from 82.115.20.167: bytes=32 time=106ms TTL=45
+
+Ping statistics for 82.115.20.167:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 101ms, Maximum = 106ms, Average = 103ms
+'82.115.20.167' is UP.

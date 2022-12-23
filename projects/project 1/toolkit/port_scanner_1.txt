@@ -1,0 +1,9 @@
+keivanipchihagh@Keivan:~/temp$ sudo hping3 -S 82.115.20.167 -p ++1
+HPING 82.115.20.167 (eth0 82.115.20.167): S set, 40 headers + 0 data bytes
+len=44 ip=82.115.20.167 ttl=44 DF id=0 sport=22 flags=SA seq=21 win=64240 rtt=119.4 ms
+len=44 ip=82.115.20.167 ttl=43 DF id=0 sport=80 flags=SA seq=79 win=64240 rtt=135.9 ms
+len=44 ip=82.115.20.167 ttl=43 DF id=0 sport=81 flags=SA seq=80 win=64240 rtt=145.2 ms
+^C
+--- 82.115.20.167 hping statistic ---
+265 packets transmitted, 3 packets received, 99% packet loss
+round-trip min/avg/max = 119.4/133.5/145.2 ms

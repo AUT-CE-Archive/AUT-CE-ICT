@@ -1,0 +1,13 @@
+>> python port_scanner.py 82.115.20.167 62410 62420
+
+Port Closed: --> 62410
+Port Open: --> 62411
+Port Closed: --> 62412
+Port Closed: --> 62413
+Port Closed: --> 62414
+Port Closed: --> 62415
+Port Closed: --> 62416
+Port Closed: --> 62417
+Port Closed: --> 62418
+Port Closed: --> 62419
+scanning complete in  189.52499055862427
